@@ -1,0 +1,30 @@
+.settings-tab.active{
+	background-color: #eff1f9;
+    border-top-color: #e1e6f1;
+    border-bottom-color: #e1e6f1;
+}
+.settings-tab:hover {
+	cursor: pointer;
+    background-color: #f4f5fb;
+    border-top-color: #e1e6f1;
+    border-bottom-color: #e1e6f1;
+}
+.bootstrap-tagsinput{
+    padding: 0px 0px 10px 10px !important;
+    border: 1px solid #eee !important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.dropzone {
+    border: 1px solid #e5e5e5;
+}
+.display-none{
+    display:none;
+}
+
+.note-editor .note-editable {
+    height: 350px !important; /* Set your desired height here */
+    min-height: 200px !important; /* Optionally, set a minimum height */
+}
+
